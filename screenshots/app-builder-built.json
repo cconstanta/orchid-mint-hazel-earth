@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Столовая «Перемена»",
+      "hasCanvas": false,
+      "bodyTextLen": 859,
+      "bodyTextHash": "051e56d8dac66514152b249f9bc9a4499fbbf2f72624bb55504cf17e84aefd8d",
+      "bodyTextPrefix": "Перемена СТОЛОВАЯ КОЛЛЕДЖА Сегодня Меню Заказ Пожелания Столовая",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Столовая «Перемена»",
+      "hasCanvas": false,
+      "bodyTextLen": 1208,
+      "bodyTextHash": "7cfa8ae21f9f54a68d8d1ccfa0399d84b3d07022fc8307c443f6cdeaaee6265e",
+      "bodyTextPrefix": "Перемена СТОЛОВАЯ КОЛЛЕДЖА ГБПОУ «ПОЛИТЕХ-КОЛЛЕДЖ №12» Обед без ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json"
+}
